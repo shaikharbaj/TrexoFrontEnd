@@ -5,6 +5,7 @@ import countrySchema from "./country.schema";import globalSettingSchema from "./
 import stateSchema from "./state.schema";import brandSchema from "./brand.schema";
 import categorySchema from "./category/category.schema";
 import citySchema from "./city/city.schema";
+import testimonialSchema from "./Testimonial/testimonial.schema";
 export {
     loginSchema,
     forgotPasswordSchema,
@@ -14,5 +15,6 @@ export {
     stateSchema,
     brandSchema,
     categorySchema,
-    citySchema
+    citySchema,
+    testimonialSchema
 };

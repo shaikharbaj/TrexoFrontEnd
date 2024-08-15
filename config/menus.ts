@@ -76,6 +76,11 @@ export const menusConfig = {
           href: "/city",
           icon: Settings,
         },
+        {
+          title: "Testimonial",
+          href: "/testimonial",
+          icon: Settings,
+        },
       ],
     },
   ],
@@ -139,6 +144,11 @@ export const menusConfig = {
           {
             title: "City",
             href: "/city",
+            icon: Settings,
+          },
+          {
+            title: "Testimonial",
+            href: "/testimonial",
             icon: Settings,
           },
         ],
@@ -207,6 +217,11 @@ export const menusConfig = {
           {
             title: "City",
             href: "/city",
+            icon: Settings,
+          },
+          {
+            title: "Testimonial",
+            href: "/testimonial",
             icon: Settings,
           },
         ],
